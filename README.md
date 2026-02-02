@@ -40,6 +40,19 @@ A machine learning web application that predicts health insurance premium costs 
 
 ---
 
+## 📸 Screenshots
+
+
+### 🖥️ Streamlit Application Interface
+![Home Screen](artifacts/screenshots/landing_page.png)
+
+### ✅ Sample Prediction Results
+![Result Screen](artifacts/screenshots/prediction_result.png)
+![Result Screen](artifacts/screenshots/prediction_result_2.png)
+
+---
+
+
 ## Folder Structure
 
 ```text

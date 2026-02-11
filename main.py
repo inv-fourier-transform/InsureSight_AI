@@ -1,6 +1,9 @@
 import streamlit as st
 from prediction_helper import predict
 
+# ADD THIS LINE - Must be the first Streamlit command
+st.set_page_config(page_title="🏥 InsureSight AI", layout="wide")
+
 st.title('🏥 InsureSight AI')
 
 categorical_options = {
